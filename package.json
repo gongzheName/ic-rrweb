@@ -1,0 +1,37 @@
+{
+  "author": "philo",
+  "description": "customize rrweb",
+  "main": "index.js",
+  "name": "ky-ic-rrweb",
+  "version": "0.0.6",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@kye-netc/request": "^0.0.14",
+    "js-md5": "^0.7.3",
+    "rrweb": "^2.0.0-alpha.4"
+  },
+  "devDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "5.0.0",
+    "rrweb-player": "^1.0.0-alpha.4",
+    "web-vitals": "^2.1.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
